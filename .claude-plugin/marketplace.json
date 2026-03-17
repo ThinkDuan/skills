@@ -2,6 +2,10 @@
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "vue-skills",
   "description": "A collection of skills for Vue.js development.",
+  "owner": {
+    "name": "ThinkDuan",
+    "email": "thinkduan@163.com"
+  },
   "plugins": [
     {
       "name": "create-adaptable-composable",
